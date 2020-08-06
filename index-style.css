@@ -297,6 +297,14 @@ h4 {
   color: rgb(182, 180, 180);
 }
 
+.admin a {
+  text-decoration-style: none;
+  font-size: 13px;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+  color: rgb(182, 180, 180);
+}
+
 .adress-bottom {
   border: 1px solid whitesmoke;
   width: 60%;
